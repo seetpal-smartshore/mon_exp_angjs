@@ -1,0 +1,11 @@
+{
+  "name": "mon-exp-angjs",
+  "version": "",
+  "dependencies": {
+    "angular": "*",
+    "angular-cookies": "*",
+    "angular-route": "*",
+    "bootstrap": "~3.3.5",
+    "bootstrap-css-only": "*"
+  }
+}
